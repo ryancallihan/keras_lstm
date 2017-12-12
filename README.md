@@ -1,1 +1,1 @@
-# keras_lstm
+# A LSTM RNN using Keras
